@@ -17,6 +17,6 @@ https://www.toptal.com/developers/gitignore
 # readme 작성법
 ## table 생성 사이트
 https://www.tablesgenerator.com/markdown_tables
-## 코드
+## 코드 블럭
 <code>.toString</code>
-<pre><code>.toString</code></pre>
+html code태그 사용
