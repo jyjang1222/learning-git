@@ -14,9 +14,23 @@ https://www.toptal.com/developers/gitignore
 |folder_name/**/*.a|해당 폴더 포함한 하위 모든 폴더에서 확장자가 .a 인 모든 파일을 무시합니다.|
 |/*.a|현재 폴더의 확장자가 .a 인 모든파일을 무시합니다.|
 
+# 마크다운 코드블록
+| 언어 |  Markdown | 언어  | Markdown  |
+|:-:|:-:|:-:|:-:|
+| Bash | bash  |  JSON | json  |
+| C#  |  cs |  Java | java  |
+|  C++ |  cpp | JavaScript  | javascript  |
+|  CSS |  css |  PHP |  php |
+|  Diff |  diff |  Perl |  perl |
+|  HTML, XML |  html | Python  | python  |
+|  HTTP |  http | Ruby  | ruby |
+|  Ini |  ini | SQL  | sql  |
+
 # readme 작성법
 ## table 생성 사이트
 https://www.tablesgenerator.com/markdown_tables
 ## 코드 블럭
 <code>.toString</code>
 html code태그 사용
+
+
