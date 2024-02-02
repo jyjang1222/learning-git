@@ -6,6 +6,7 @@ https://www.toptal.com/developers/gitignore
 
 ## gitignore 파일 규칙
 |표현|의미|
+|---|---|
 |#, 빈라인|#은 주석을 의미하며, 빈라인은 아무런 영향을 주지 않습니다.|
 | *.a|오른쪽정렬|
 |folder_name/|해당 폴더의 모든 파일을 무시합니다.
