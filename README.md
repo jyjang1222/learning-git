@@ -19,3 +19,4 @@ https://www.toptal.com/developers/gitignore
 https://www.tablesgenerator.com/markdown_tables
 ## 코드
 <code>.toString</code>
+<pre><code>.toString</code></pre>
