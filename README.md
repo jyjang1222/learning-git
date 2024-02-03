@@ -33,4 +33,9 @@ https://www.tablesgenerator.com/markdown_tables
 <code>.toString</code>
 html code태그 사용
 
-
+# github desktop
+## 커밋 되돌리기
+1. 왼쪽 사이드바에서 **기록**을 클릭합니다.
+<img src="/assets/cb-130307/images/help/desktop/history-tab-in-commit-sidebar.png" alt="사이드바의 &quot;기록&quot; 탭 스크린샷. 커밋 목록 위에 &quot;기록&quot; 탭 단추가 주황색 윤곽선으로 강조 표시됩니다.">
+2. 되돌리려는 커밋을 마우스 오른쪽 단추로 클릭하고 커밋에서 **변경 내용 되돌리기**를 클릭합니다.
+<img src="/assets/cb-146981/images/help/desktop/commit-revert-mac.png" alt="&quot;기록&quot; 탭의 커밋 목록 스크린샷. 커밋 옆에 있는 상황에 맞는 메뉴에서 커서가 &quot;커밋 변경 내용 되돌리기&quot;에 있습니다.">
